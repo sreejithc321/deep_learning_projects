@@ -1,4 +1,5 @@
-# deep_learning_projects
-Deep learning projects 
+# Deep learning projects 
+
 
 * Diabetes Prediction
+* Sentiment Analysis
