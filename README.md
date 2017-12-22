@@ -1,5 +1,6 @@
 # Deep learning projects 
 
 
+* Multiclass Classification of Flower Species.
 * Diabetes Prediction
-* Sentiment Analysis
+* Predict Sentiment From Movie Reviews.
