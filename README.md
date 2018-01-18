@@ -6,3 +6,4 @@
 * Binary classification of Sonar Data 
 * Predict Sentiment From Movie Reviews
 * Regression of Boston House Prices
+* LSTM Embedding based classification
